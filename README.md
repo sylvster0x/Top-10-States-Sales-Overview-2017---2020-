@@ -4,7 +4,7 @@ This dashboard provides a comprehensive sales analysis for 2017–2020, showing 
 
 Top 10 Sattes Sales Overview (2017–2020)
 
--- To view the read-only version, open the PNG files. You can also find a PowerPoint version here, which contains the fully interactive dashboard.
+-- To view the read-only version, open the PNG files. You can also find a PowerPoint (.PPTX) version here, which contains the fully interactive dashboard.
 
 This project is a training Power BI dashboard created to refresh and strengthen my skills in data modeling, DAX, and analytical reporting after a longer break from the tool.
 The dashboard analyzes sales performance from 2017 to 2020, focusing on several key areas:
